@@ -1,5 +1,10 @@
 ## Deploying a Spring Boot application on AKS Cluster using Jenkins and Storing the Artifacts on ACR.
 
+### Flow of the Pipeline:
+
+![image](https://user-images.githubusercontent.com/92631457/204109168-526bbe11-39f8-4640-a6e5-8f6b771e923d.png)
+
+
 ### Pre-requisites:
   - AKS cluster needs to be up running.
   - Jenkins should be up and running.
